@@ -1,0 +1,7 @@
+ModbusMaster.c:31:6:mbMasterInit	1
+ModbusMaster.c:38:26:sendData	1
+ModbusMaster.c:46:9:mbMasterRead	25
+ModbusMaster.c:143:15:mbWriteSingleCoil	9
+ModbusMaster.c:187:15:mbWriteMulCoil	9
+ModbusMaster.c:236:15:mbWriteSingleReg	8
+ModbusMaster.c:279:15:mbWriteMulReg	9

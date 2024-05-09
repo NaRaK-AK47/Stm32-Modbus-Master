@@ -1,0 +1,7 @@
+../Core/Src/ModbusMaster.c:31:6:mbMasterInit	16	static
+../Core/Src/ModbusMaster.c:38:26:sendData	24	static
+../Core/Src/ModbusMaster.c:46:9:mbMasterRead	56	static
+../Core/Src/ModbusMaster.c:143:15:mbWriteSingleCoil	40	static
+../Core/Src/ModbusMaster.c:187:15:mbWriteMulCoil	56	dynamic
+../Core/Src/ModbusMaster.c:236:15:mbWriteSingleReg	40	static
+../Core/Src/ModbusMaster.c:279:15:mbWriteMulReg	64	dynamic
